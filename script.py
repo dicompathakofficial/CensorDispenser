@@ -1,6 +1,6 @@
 ###### PROBLEM SET ######
-# Task 1: Write a function that can censor not just a specific word or phrase from a body of text, 
-# but a whole list of words and phrases, and then return the text.
+# Task 1: Write a function that can censor not just a specific word or phrase from a 
+#body of text,but a whole list of words and phrases, and then return the text.
 
 # Task 2: Write a function that can censor any occurance of a word from the 
 #“negative words” list after any “negative” word has occurred twice, as well 
